@@ -1,4 +1,4 @@
-# Formik-Login
+# React App using Formik
 
 ## Using Formik
 
